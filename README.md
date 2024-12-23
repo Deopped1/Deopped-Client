@@ -3,7 +3,7 @@ After keeping this mod private for a prolonged period, I've decided to share it 
 
 This client contains all the mods I have previously published on youtube, now enhanced and combined into a single, unified mod. Additionally, this mod includes many features that I haven't published on youtube.
 
-There won't be any further updates to the mod, but with 99% of the features being update-proof, it should continue to work seamlessly, so you can keep using it without any issues.
+There won't be any further updates to the mod in the near future, but with 99% of the features being update-proof, it should continue to work seamlessly, so you can keep using it without any issues.
 
 ## Installation
 
