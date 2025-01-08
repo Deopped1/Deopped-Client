@@ -1,4 +1,4 @@
-# deopped-client
+# Deopped Client
 After keeping this mod private for a prolonged period, I've decided to share it with the community as I am now in college and no longer actively play the game
 
 This client contains all the mods I have previously published on youtube, now enhanced and combined into a single, unified mod. Additionally, this mod includes many features that I haven't published on youtube.
