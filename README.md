@@ -9,6 +9,3 @@ There won't be any further updates to the mod in the near future, but with 99% o
 
 1. Download the latest release from the [Releases](https://github.com/Deopped1/deopped-client-1.43/releases) page.
 2. Copy the downloaded file into your Minecraft `mods` folder.
-
-## The mod is currently disabled to the public.
-You can join https://discord.gg/mT5K3bH8kU if you wish to be whitelisted.
